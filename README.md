@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, soy Anderson Pipicano</h1>
-<h3 align="center">Ingeniero de Sistemas · Especialista en Inteligencia Artificial Aplicada</h3>
+<h3 align="center">Ingeniero de Sistemas · Magíster en Inteligencia Artificial Aplicada</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/anderson-daniel-pipicano-ruiz/">
