@@ -29,15 +29,7 @@ When I'm not training models or shipping pipelines, I'm probably reading about t
 ## 🧰 What I work with
 
 <p align="center">
-  <img src="ai-play.svg" width="100%" alt="A cat playing with an animated AI pipeline"/>
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,sklearn,pytorch,opencv,postgres,docker,azure,git,javascript,typescript,cs,php,django,flask,html,css,bootstrap,githubactions&theme=dark&perline=9" alt="Tech stack"/>
-</p>
-
-<p align="center">
-  <i>Also comfortable with:</i> Pandas · NumPy · PySpark · Jupyter · Power BI · Oracle · UiPath · Selenium
+  <img src="ai-play.svg" width="100%" alt="A jaguar playing with the animated AI pipeline and my full tech stack"/>
 </p>
 
 ---
