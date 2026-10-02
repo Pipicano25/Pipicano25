@@ -15,18 +15,13 @@
 
 ---
 
-## 💼 Value Proposition
+## 👋 About me
 
-I help organizations turn raw data into **measurable business outcomes** — predictive models, automated pipelines, and intelligent systems that reduce cost, speed up decisions, and unlock new revenue.
+I'm a Systems Engineer with a Master's in Applied Artificial Intelligence, and I get the same satisfaction from a clean data pipeline that other people get from a good cup of coffee.
 
----
+What I enjoy most is the middle ground where the technical and the practical meet: taking something messy — a dataset, a manual process, a pile of reports — and turning it into something a real team can actually use. A model that just sits in a notebook doesn't excite me much. I like shipping it: a web service, an automated pipeline, a dashboard someone opens on Monday morning.
 
-## 🎯 How I Create Impact
-
-- **Applied AI & Machine Learning** — Predictive and classification models built with a clear business goal, following **CRISP-DM** and deployed with **MLOps** best practices.
-- **Computer Vision & LLMs** — Real-time detection systems (YOLO) and knowledge-engineering solutions powered by large language models.
-- **Data Engineering & Analytics** — End-to-end ETL pipelines, data platforms (Django, Oracle, PostgreSQL, PySpark) and BI reporting that turn data into decisions.
-- **Intelligent Automation (RPA)** — Process automation with **UiPath** and **Selenium** to eliminate manual work and operational errors.
+These days I work on applied AI — predictive models, computer vision, and LLM-based solutions — always with MLOps practices so what I build is reproducible and ready for production.
 
 ---
 
@@ -70,14 +65,14 @@ I help organizations turn raw data into **measurable business outcomes** — pre
 
 ## 🚀 Featured Projects
 
-| Project | Business Outcome | Stack |
-|---------|------------------|-------|
-| [**traffic_monitor_ai**](https://github.com/Pipicano25/traffic_monitor_ai) | Real-time vehicle counting for traffic management and mobility analytics. | Python · YOLO · OpenCV |
-| [**LLM-driven-Ontology-Construction-for-Bioprocesses**](https://github.com/Pipicano25/LLM-driven-Ontology-Construction-for-Bioprocesses) | Multi-scale bioprocess ontologies built with **three LLMs**, automating knowledge engineering. | Python · LLMs |
-| [**mlops-enfermedades-comunes-huerfanas**](https://github.com/Pipicano25/mlops-enfermedades-comunes-huerfanas) | End-to-end ML pipeline for disease prediction from clinical symptoms, including rare diseases. | Python · MLOps · scikit-learn |
-| [**servicio-medico-mlops-U2**](https://github.com/Pipicano25/servicio-medico-mlops-U2) | Clinical model served as a web service with **CI/CD on GitHub Actions**. | Python · Flask · GitHub Actions |
-| [**Prediccion-Clasificacion-Industria-Azucarera-ICESI**](https://github.com/Pipicano25/Prediccion-Clasificacion-Industria-Azucarera-ICESI) | Yield prediction and classification (TCH and %Sac.Caña) for the sugar industry. | Python · scikit-learn |
-| [**RCV_ICESI**](https://github.com/Pipicano25/RCV_ICESI) | Cardiovascular risk prediction built under the **CRISP-DM** methodology. | Python · Jupyter |
+| Project | What it does |
+|---------|--------------|
+| [**traffic_monitor_ai**](https://github.com/Pipicano25/traffic_monitor_ai) | A camera that counts cars: YOLO boxes every vehicle on the street and gives the total in real time. What started as a *"can I do this?"* experiment became a working mobility tool. |
+| [**LLM-driven-Ontology-Construction-for-Bioprocesses**](https://github.com/Pipicano25/LLM-driven-Ontology-Construction-for-Bioprocesses) | Three LLMs building a bioprocess ontology together — automating knowledge engineering that used to take experts weeks. |
+| [**mlops-enfermedades-comunes-huerfanas**](https://github.com/Pipicano25/mlops-enfermedades-comunes-huerfanas) | An end-to-end ML pipeline that predicts diseases from symptoms — even rare ones, where data is scarce. |
+| [**servicio-medico-mlops-U2**](https://github.com/Pipicano25/servicio-medico-mlops-U2) | A clinical model wrapped as a web service with CI/CD: every push is tested and deployed by GitHub Actions. |
+| [**Prediccion-Clasificacion-Industria-Azucarera-ICESI**](https://github.com/Pipicano25/Prediccion-Clasificacion-Industria-Azucarera-ICESI) | Predicting sugar cane yield (TCH and %Sac.Caña) so mills know what to expect before harvest. |
+| [**RCV_ICESI**](https://github.com/Pipicano25/RCV_ICESI) | Cardiovascular risk prediction following CRISP-DM — from business understanding to a model that flags who needs early intervention. |
 
 ---
 
