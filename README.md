@@ -28,14 +28,12 @@ When I'm not training models or shipping pipelines, I'm probably reading about t
 
 ## 🧰 What I work with
 
-### AI & Data
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,sklearn,pytorch,opencv,postgres,docker,azure,git&theme=dark" alt="AI & Data stack"/>
+  <img src="ai-play.svg" width="100%" alt="A cat playing with an animated AI pipeline"/>
 </p>
 
-### Web & Automation
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=javascript,typescript,cs,php,django,flask,html,css,bootstrap,githubactions&theme=dark" alt="Web & Automation stack"/>
+  <img src="https://skillicons.dev/icons?i=python,sklearn,pytorch,opencv,postgres,docker,azure,git,javascript,typescript,cs,php,django,flask,html,css,bootstrap,githubactions&theme=dark&perline=9" alt="Tech stack"/>
 </p>
 
 <p align="center">
@@ -72,19 +70,6 @@ When I'm not training models or shipping pipelines, I'm probably reading about t
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pipicano25&repo=RCV_ICESI&bg_color=111a38&title_color=67e8f9&text_color=94a3b8&icon_color=a5b4fc" width="400" alt="RCV_ICESI"/>
   </a>
 </div>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pipicano25&show_icons=true&hide_title=true&count_private=true&bg_color=45deg,0b1020,0d2230&title_color=67e8f9&text_color=94a3b8&icon_color=a5b4fc" alt="GitHub stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pipicano25&layout=compact&langs_count=8&bg_color=45deg,0b1020,0d2230&title_color=67e8f9&text_color=94a3b8&icon_color=a5b4fc" alt="Most used languages"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pipicano25&bg_color=111a38&color=94a3b8&line=a5b4fc&point=22d3ee&area=true&hide_border=true" width="100%" alt="Contribution activity graph"/>
-</p>
 
 ---
 
