@@ -29,41 +29,61 @@ When I'm not training models or shipping pipelines, I'm probably reading about t
 ## 🧰 What I work with
 
 ### AI & Data
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,sklearn,pytorch,opencv,postgres,docker,azure,git" alt="AI & Data stack"/>
-  </a>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,sklearn,pytorch,opencv,postgres,docker,azure,git&theme=dark" alt="AI & Data stack"/>
 </p>
 
 ### Web & Automation
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=javascript,typescript,cs,php,django,flask,html,css,bootstrap,githubactions" alt="Web & Automation stack"/>
-  </a>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=javascript,typescript,cs,php,django,flask,html,css,bootstrap,githubactions&theme=dark" alt="Web & Automation stack"/>
 </p>
 
-*Also comfortable with:* Pandas · NumPy · PySpark · Jupyter · Power BI · Oracle · UiPath · Selenium
+<p align="center">
+  <i>Also comfortable with:</i> Pandas · NumPy · PySpark · Jupyter · Power BI · Oracle · UiPath · Selenium
+</p>
 
 ---
 
 ## 🚀 Featured Projects
 
-| Project | What it does |
-|---------|--------------|
-| [**traffic_monitor_ai**](https://github.com/Pipicano25/traffic_monitor_ai) | A camera that counts cars: YOLO boxes every vehicle on the street and gives the total in real time. What started as a *"can I do this?"* experiment became a working mobility tool. |
-| [**LLM-driven-Ontology-Construction-for-Bioprocesses**](https://github.com/Pipicano25/LLM-driven-Ontology-Construction-for-Bioprocesses) | Three LLMs building a bioprocess ontology together — automating knowledge engineering that used to take experts weeks. |
-| [**mlops-enfermedades-comunes-huerfanas**](https://github.com/Pipicano25/mlops-enfermedades-comunes-huerfanas) | An end-to-end ML pipeline that predicts diseases from symptoms — even rare ones, where data is scarce. |
-| [**servicio-medico-mlops-U2**](https://github.com/Pipicano25/servicio-medico-mlops-U2) | A clinical model wrapped as a web service with CI/CD: every push is tested and deployed by GitHub Actions. |
-| [**Prediccion-Clasificacion-Industria-Azucarera-ICESI**](https://github.com/Pipicano25/Prediccion-Clasificacion-Industria-Azucarera-ICESI) | Predicting sugar cane yield (TCH and %Sac.Caña) so mills know what to expect before harvest. |
-| [**RCV_ICESI**](https://github.com/Pipicano25/RCV_ICESI) | Cardiovascular risk prediction following CRISP-DM — from business understanding to a model that flags who needs early intervention. |
+<div align="center">
+  <a href="https://github.com/Pipicano25/traffic_monitor_ai">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pipicano25&repo=traffic_monitor_ai&bg_color=111a38&title_color=67e8f9&text_color=94a3b8&icon_color=a5b4fc" width="400" alt="traffic_monitor_ai"/>
+  </a>
+  <a href="https://github.com/Pipicano25/LLM-driven-Ontology-Construction-for-Bioprocesses">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pipicano25&repo=LLM-driven-Ontology-Construction-for-Bioprocesses&bg_color=111a38&title_color=67e8f9&text_color=94a3b8&icon_color=a5b4fc" width="400" alt="LLM-driven-Ontology-Construction-for-Bioprocesses"/>
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/Pipicano25/mlops-enfermedades-comunes-huerfanas">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pipicano25&repo=mlops-enfermedades-comunes-huerfanas&bg_color=111a38&title_color=67e8f9&text_color=94a3b8&icon_color=a5b4fc" width="400" alt="mlops-enfermedades-comunes-huerfanas"/>
+  </a>
+  <a href="https://github.com/Pipicano25/servicio-medico-mlops-U2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pipicano25&repo=servicio-medico-mlops-U2&bg_color=111a38&title_color=67e8f9&text_color=94a3b8&icon_color=a5b4fc" width="400" alt="servicio-medico-mlops-U2"/>
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/Pipicano25/Prediccion-Clasificacion-Industria-Azucarera-ICESI">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pipicano25&repo=Prediccion-Clasificacion-Industria-Azucarera-ICESI&bg_color=111a38&title_color=67e8f9&text_color=94a3b8&icon_color=a5b4fc" width="400" alt="Prediccion-Clasificacion-Industria-Azucarera-ICESI"/>
+  </a>
+  <a href="https://github.com/Pipicano25/RCV_ICESI">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pipicano25&repo=RCV_ICESI&bg_color=111a38&title_color=67e8f9&text_color=94a3b8&icon_color=a5b4fc" width="400" alt="RCV_ICESI"/>
+  </a>
+</div>
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pipicano25&show_icons=true&theme=radical&count_private=true" alt="GitHub stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pipicano25&layout=compact&theme=radical&langs_count=8" alt="Most used languages"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pipicano25&show_icons=true&hide_title=true&count_private=true&bg_color=45deg,0b1020,0d2230&title_color=67e8f9&text_color=94a3b8&icon_color=a5b4fc" alt="GitHub stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pipicano25&layout=compact&langs_count=8&bg_color=45deg,0b1020,0d2230&title_color=67e8f9&text_color=94a3b8&icon_color=a5b4fc" alt="Most used languages"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pipicano25&bg_color=111a38&color=94a3b8&line=a5b4fc&point=22d3ee&area=true&hide_border=true" width="100%" alt="Contribution activity graph"/>
 </p>
 
 ---
