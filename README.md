@@ -1,5 +1,5 @@
-<h1 align="center">Hola 👋, soy Anderson Pipicano</h1>
-<h3 align="center">Ingeniero de Sistemas · Magíster en Inteligencia Artificial Aplicada</h3>
+<h1 align="center">Anderson Pipicano</h1>
+<h3 align="center">Systems Engineer · Master's in Applied Artificial Intelligence</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/anderson-daniel-pipicano-ruiz/">
@@ -13,26 +13,26 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Pipicano25&label=Visitas&color=0e75b6&style=flat" alt="contador de visitas"/>
-</p>
+---
+
+## 💼 Value Proposition
+
+I help organizations turn raw data into **measurable business outcomes** — predictive models, automated pipelines, and intelligent systems that reduce cost, speed up decisions, and unlock new revenue.
 
 ---
 
-## 👨‍💻 Sobre mí
+## 🎯 How I Create Impact
 
-Soy **Ingeniero de Sistemas** con enfoque en **Inteligencia Artificial Aplicada, Ingeniería de Datos y Automatización (RPA)**. Actualmente curso la **Maestría en IA Aplicada en ICESI**, combinando mi experiencia en desarrollo de software y análisis de datos con el diseño de soluciones de **Machine Learning, MLOps y Computer Vision**.
-
-- 🔭 Me apasiona construir soluciones de **IA de extremo a extremo**: desde la ingeniería de datos hasta el despliegue del modelo.
-- 🧠 Aplico **CRISP-DM** y buenas prácticas de **MLOps** en mis proyectos.
-- 🤖 Automatizo procesos con **RPA (UiPath, Selenium)** y pipelines en **Python**.
-- 🎯 Mi objetivo: transformar datos en decisiones con impacto real.
+- **Applied AI & Machine Learning** — Predictive and classification models built with a clear business goal, following **CRISP-DM** and deployed with **MLOps** best practices.
+- **Computer Vision & LLMs** — Real-time detection systems (YOLO) and knowledge-engineering solutions powered by large language models.
+- **Data Engineering & Analytics** — End-to-end ETL pipelines, data platforms (Django, Oracle, PostgreSQL, PySpark) and BI reporting that turn data into decisions.
+- **Intelligent Automation (RPA)** — Process automation with **UiPath** and **Selenium** to eliminate manual work and operational errors.
 
 ---
 
-## 🛠️ Stack tecnológico
+## 🛠️ Tech Stack
 
-### Lenguajes
+### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -40,16 +40,15 @@ Soy **Ingeniero de Sistemas** con enfoque en **Inteligencia Artificial Aplicada,
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### IA & Machine Learning
+### AI & Machine Learning
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![LLMs](https://img.shields.io/badge/LLMs-412991?style=for-the-badge&logo=openai&logoColor=white)
 
-### Datos & MLOps
+### Data & MLOps
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
@@ -59,7 +58,7 @@ Soy **Ingeniero de Sistemas** con enfoque en **Inteligencia Artificial Aplicada,
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
-### Web & Automatización
+### Web & Automation
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
@@ -69,38 +68,30 @@ Soy **Ingeniero de Sistemas** con enfoque en **Inteligencia Artificial Aplicada,
 
 ---
 
-## 🚀 Proyectos destacados
+## 🚀 Featured Projects
 
-| Proyecto | Descripción | Stack |
-|----------|-------------|-------|
-| [**traffic_monitor_ai**](https://github.com/Pipicano25/traffic_monitor_ai) | Monitor de tráfico con **Computer Vision (YOLO)** que detecta y cuenta vehículos en tiempo real. | Python · YOLO · OpenCV |
-| [**LLM-driven-Ontology-Construction-for-Bioprocesses**](https://github.com/Pipicano25/LLM-driven-Ontology-Construction-for-Bioprocesses) | Construcción de ontologías multi-escala para bioprocesos usando **tres LLMs**. | Python · LLMs |
-| [**mlops-enfermedades-comunes-huerfanas**](https://github.com/Pipicano25/mlops-enfermedades-comunes-huerfanas) | Pipeline **end-to-end de Machine Learning** para predicción de enfermedades a partir de síntomas clínicos. | Python · MLOps · scikit-learn |
-| [**servicio-medico-mlops-U2**](https://github.com/Pipicano25/servicio-medico-mlops-U2) | Servicio web que simula un modelo clínico con **CI/CD en GitHub Actions**. | Python · Flask · GitHub Actions |
-| [**Prediccion-Clasificacion-Industria-Azucarera-ICESI**](https://github.com/Pipicano25/Prediccion-Clasificacion-Industria-Azucarera-ICESI) | Predicción y clasificación de TCH y %Sac.Caña con **scikit-learn**. | Python · scikit-learn |
-| [**RCV_ICESI**](https://github.com/Pipicano25/RCV_ICESI) | Predicción de **riesgo cardiovascular** con ML bajo metodología **CRISP-DM**. | Python · Jupyter |
-
-> 🔎 Explora más en mi repositorio académico de la **Maestría en IA Aplicada de ICESI**.
+| Project | Business Outcome | Stack |
+|---------|------------------|-------|
+| [**traffic_monitor_ai**](https://github.com/Pipicano25/traffic_monitor_ai) | Real-time vehicle counting for traffic management and mobility analytics. | Python · YOLO · OpenCV |
+| [**LLM-driven-Ontology-Construction-for-Bioprocesses**](https://github.com/Pipicano25/LLM-driven-Ontology-Construction-for-Bioprocesses) | Multi-scale bioprocess ontologies built with **three LLMs**, automating knowledge engineering. | Python · LLMs |
+| [**mlops-enfermedades-comunes-huerfanas**](https://github.com/Pipicano25/mlops-enfermedades-comunes-huerfanas) | End-to-end ML pipeline for disease prediction from clinical symptoms, including rare diseases. | Python · MLOps · scikit-learn |
+| [**servicio-medico-mlops-U2**](https://github.com/Pipicano25/servicio-medico-mlops-U2) | Clinical model served as a web service with **CI/CD on GitHub Actions**. | Python · Flask · GitHub Actions |
+| [**Prediccion-Clasificacion-Industria-Azucarera-ICESI**](https://github.com/Pipicano25/Prediccion-Clasificacion-Industria-Azucarera-ICESI) | Yield prediction and classification (TCH and %Sac.Caña) for the sugar industry. | Python · scikit-learn |
+| [**RCV_ICESI**](https://github.com/Pipicano25/RCV_ICESI) | Cardiovascular risk prediction built under the **CRISP-DM** methodology. | Python · Jupyter |
 
 ---
 
-## 📊 Estadísticas de GitHub
+## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pipicano25&show_icons=true&theme=radical&count_private=true" alt="estadísticas"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pipicano25&layout=compact&theme=radical&langs_count=8" alt="lenguajes más usados"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pipicano25&show_icons=true&theme=radical&count_private=true" alt="GitHub stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pipicano25&layout=compact&theme=radical&langs_count=8" alt="Most used languages"/>
 </p>
 
 ---
 
-## 📫 Contacto
+## 📫 Contact
 
 - 💼 **LinkedIn:** [anderson-daniel-pipicano-ruiz](https://www.linkedin.com/in/anderson-daniel-pipicano-ruiz/)
-- 💬 **WhatsApp:** [Enviar mensaje](https://wa.me/573163837042)
-- 📧 **Correo:** [agrégalo aquí](mailto:tu-correo@ejemplo.com)
-
----
-
-<p align="center">
-  <i>«La inteligencia artificial no reemplaza a las personas; amplifica lo que somos capaces de lograr.»</i>
-</p>
+- 💬 **WhatsApp:** [Send a message](https://wa.me/573163837042)
+- 📧 **Email:** [add it here](mailto:your-email@example.com)
