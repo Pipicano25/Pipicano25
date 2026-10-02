@@ -1,5 +1,6 @@
-<h1 align="center">Anderson Pipicano</h1>
-<h3 align="center">Systems Engineer · Master's in Applied Artificial Intelligence</h3>
+<p align="center">
+  <img src="banner.svg" width="100%" alt="Anderson Pipicano — Master's in Applied Artificial Intelligence"/>
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/anderson-daniel-pipicano-ruiz/">
@@ -15,51 +16,33 @@
 
 ---
 
-## 👋 About me
+## 👋 Hi, I'm Anderson!
 
-I'm a Systems Engineer with a Master's in Applied Artificial Intelligence, and I get the same satisfaction from a clean data pipeline that other people get from a good cup of coffee.
+Systems Engineer and AI specialist — the kind who genuinely enjoys the moment a model finally *gets it* right. 🤖
 
-What I enjoy most is the middle ground where the technical and the practical meet: taking something messy — a dataset, a manual process, a pile of reports — and turning it into something a real team can actually use. A model that just sits in a notebook doesn't excite me much. I like shipping it: a web service, an automated pipeline, a dashboard someone opens on Monday morning.
+I build things that look like magic from the outside but make perfect sense on the inside: messy data goes in, real predictions and automations come out. And if something is boring and repetitive, I'd rather automate it than do it twice.
 
-These days I work on applied AI — predictive models, computer vision, and LLM-based solutions — always with MLOps practices so what I build is reproducible and ready for production.
+When I'm not training models or shipping pipelines, I'm probably reading about the next thing — or making coffee. ☕🚀
 
 ---
 
-## 🛠️ Tech Stack
+## 🧰 What I work with
 
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### AI & Machine Learning
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![LLMs](https://img.shields.io/badge/LLMs-412991?style=for-the-badge&logo=openai&logoColor=white)
-
-### Data & MLOps
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+### AI & Data
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,sklearn,pytorch,opencv,postgres,docker,azure,git" alt="AI & Data stack"/>
+  </a>
+</p>
 
 ### Web & Automation
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![UiPath](https://img.shields.io/badge/UiPath-FA4616?style=for-the-badge&logo=uipath&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=javascript,typescript,cs,php,django,flask,html,css,bootstrap,githubactions" alt="Web & Automation stack"/>
+  </a>
+</p>
+
+*Also comfortable with:* Pandas · NumPy · PySpark · Jupyter · Power BI · Oracle · UiPath · Selenium
 
 ---
 
@@ -85,7 +68,7 @@ These days I work on applied AI — predictive models, computer vision, and LLM-
 
 ---
 
-## 📫 Contact
+## 📫 Let's connect
 
 - 💼 **LinkedIn:** [anderson-daniel-pipicano-ruiz](https://www.linkedin.com/in/anderson-daniel-pipicano-ruiz/)
 - 💬 **WhatsApp:** [Send a message](https://wa.me/573163837042)

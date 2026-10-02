@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="400" viewBox="0 0 1500 400">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b1020"/>
+      <stop offset="0.55" stop-color="#111a38"/>
+      <stop offset="1" stop-color="#0d2230"/>
+    </linearGradient>
+    <linearGradient id="txt" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#67e8f9"/>
+      <stop offset="1" stop-color="#a5b4fc"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1500" height="400" fill="url(#bg)"/>
+
+  <!-- faint dot grid -->
+  <g fill="#ffffff" fill-opacity="0.04">
+    <circle cx="700" cy="60" r="2"/><circle cx="820" cy="60" r="2"/><circle cx="940" cy="60" r="2"/><circle cx="1060" cy="60" r="2"/><circle cx="1180" cy="60" r="2"/><circle cx="1300" cy="60" r="2"/><circle cx="1420" cy="60" r="2"/>
+    <circle cx="700" cy="340" r="2"/><circle cx="820" cy="340" r="2"/><circle cx="940" cy="340" r="2"/><circle cx="1060" cy="340" r="2"/><circle cx="1180" cy="340" r="2"/><circle cx="1300" cy="340" r="2"/><circle cx="1420" cy="340" r="2"/>
+  </g>
+
+  <!-- neural network edges -->
+  <g stroke="#22d3ee" stroke-opacity="0.15" stroke-width="1.2">
+    <line x1="110" y1="90" x2="280" y2="60"/><line x1="110" y1="90" x2="280" y2="150"/>
+    <line x1="110" y1="90" x2="280" y2="240"/><line x1="110" y1="90" x2="280" y2="330"/>
+    <line x1="110" y1="180" x2="280" y2="60"/><line x1="110" y1="180" x2="280" y2="150"/>
+    <line x1="110" y1="180" x2="280" y2="240"/><line x1="110" y1="180" x2="280" y2="330"/>
+    <line x1="110" y1="270" x2="280" y2="60"/><line x1="110" y1="270" x2="280" y2="150"/>
+    <line x1="110" y1="270" x2="280" y2="240"/><line x1="110" y1="270" x2="280" y2="330"/>
+    <line x1="280" y1="60" x2="450" y2="90"/><line x1="280" y1="60" x2="450" y2="180"/>
+    <line x1="280" y1="60" x2="450" y2="270"/><line x1="280" y1="150" x2="450" y2="90"/>
+    <line x1="280" y1="150" x2="450" y2="180"/><line x1="280" y1="150" x2="450" y2="270"/>
+    <line x1="280" y1="240" x2="450" y2="90"/><line x1="280" y1="240" x2="450" y2="180"/>
+    <line x1="280" y1="240" x2="450" y2="270"/><line x1="280" y1="330" x2="450" y2="90"/>
+    <line x1="280" y1="330" x2="450" y2="180"/><line x1="280" y1="330" x2="450" y2="270"/>
+  </g>
+
+  <!-- neural network nodes -->
+  <g>
+    <circle cx="110" cy="90" r="7" fill="#22d3ee" stroke="#67e8f9" stroke-width="2"/>
+    <circle cx="110" cy="180" r="7" fill="#0d2230" stroke="#22d3ee" stroke-width="2"/>
+    <circle cx="110" cy="270" r="7" fill="#0d2230" stroke="#22d3ee" stroke-width="2"/>
+    <circle cx="280" cy="60" r="7" fill="#0d2230" stroke="#22d3ee" stroke-width="2"/>
+    <circle cx="280" cy="150" r="7" fill="#22d3ee" stroke="#67e8f9" stroke-width="2"/>
+    <circle cx="280" cy="240" r="7" fill="#0d2230" stroke="#22d3ee" stroke-width="2"/>
+    <circle cx="280" cy="330" r="7" fill="#0d2230" stroke="#22d3ee" stroke-width="2"/>
+    <circle cx="450" cy="90" r="7" fill="#0d2230" stroke="#22d3ee" stroke-width="2"/>
+    <circle cx="450" cy="180" r="7" fill="#a5b4fc" stroke="#c7d2fe" stroke-width="2"/>
+    <circle cx="450" cy="270" r="7" fill="#0d2230" stroke="#22d3ee" stroke-width="2"/>
+  </g>
+
+  <!-- text -->
+  <text x="600" y="165" font-family="Segoe UI, Arial, sans-serif" font-size="58" font-weight="700" fill="#f1f5f9">Anderson Pipicano</text>
+  <text x="600" y="222" font-family="Segoe UI, Arial, sans-serif" font-size="26" font-weight="600" fill="url(#txt)">Master's in Applied Artificial Intelligence</text>
+  <text x="600" y="268" font-family="Segoe UI, Arial, sans-serif" font-size="20" fill="#94a3b8">AI  ·  Machine Learning  ·  MLOps  ·  Computer Vision</text>
+</svg>
